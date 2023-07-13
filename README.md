@@ -1,2 +1,3 @@
 # nvim-config
-My nvim config (credits to DreamsofCode
+My nvim config for rust and python
+
